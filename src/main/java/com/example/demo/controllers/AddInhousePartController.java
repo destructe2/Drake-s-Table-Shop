@@ -29,6 +29,10 @@ public class AddInhousePartController{
     @Autowired
     private ApplicationContext context;
 
+    @GetMapping("/about")
+    public String about() {
+        return "about";
+    }
     @GetMapping("/showFormAddInPart")
     public String showFormAddInhousePart(Model theModel){
         InhousePart inhousepart=new InhousePart();
