@@ -9,3 +9,6 @@ the Part.java file to add min and max methods.
 Part F. Line 176 - 191 on AddProductController for the if else statement to decide wether to show the 
 failure or success page and created two html files failure and success. Line 90 from 
 mainscreen.html to put in the buy Product button 
+
+Part G. Added files "inventoryValidator", "ValidInventory". Added lines 26-38 on files "inhousePartForm" and "Outsourced 
+Part form". Added lines 23, 33-36 on file Parts. Renamed the file the persistent storage is saved to. 
