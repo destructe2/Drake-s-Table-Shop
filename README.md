@@ -15,3 +15,5 @@ Part form". Added lines 23, 33-36 on file Parts. Renamed the file the persistent
 
 Part H. Line 41-85 in the "productForm.html" file edited and added upon to include the min/max into the table. as well 
 as the link back to the main screen. Validators were already completed from part G
+
+Part I. Line 103-120 in the "PartTest class" under the test folder to add unit test getmin and getmax
