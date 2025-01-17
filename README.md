@@ -12,3 +12,6 @@ mainscreen.html to put in the buy Product button
 
 Part G. Added files "inventoryValidator", "ValidInventory". Added lines 26-38 on files "inhousePartForm" and "Outsourced 
 Part form". Added lines 23, 33-36 on file Parts. Renamed the file the persistent storage is saved to. 
+
+Part H. Line 41-85 in the "productForm.html" file edited and added upon to include the min/max into the table. as well 
+as the link back to the main screen. Validators were already completed from part G

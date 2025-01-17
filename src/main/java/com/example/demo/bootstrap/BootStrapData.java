@@ -46,7 +46,7 @@ public class BootStrapData implements CommandLineRunner {
         if (partRepository.count() == 0) {
             InhousePart tableLeg = new InhousePart();
 
-            tableLeg.setName("tableLeg");
+            tableLeg.setName("Table Leg");
             tableLeg.setPrice(15.99);
             tableLeg.setInv(30);
             tableLeg.setMaxInv(50);
