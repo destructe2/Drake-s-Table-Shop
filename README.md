@@ -1,1 +1,1 @@
-Open on localhost:8080
+Open on localhost:8080 and run application on src> main> java> DemoApplication
